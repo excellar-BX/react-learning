@@ -7,7 +7,7 @@ const Nav = () => {
         {name: "Trainer", route:'/trainer'},
         {name: "Service", route:'/trainer'},
         {name: "Community", route:'/trainer'},
-        {name: "Documentation", route:'/trainer'},
+        {name: "Careers", route:'/trainer'},
         {name: "Blog", route:'/trainer'},
     ]
   return (
